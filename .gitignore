@@ -1,0 +1,4 @@
+/Resources/haarcascades/
+__pycache__/
+.idea/
+.gitignore
